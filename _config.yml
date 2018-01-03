@@ -1,11 +1,11 @@
 # Site settings
 title: Pi
-email: vphuc.p@gmail.com
-facebook: is011011010111100101101100011010010110011001100101
-description: "My blog."
+email: x2happi@gmail.com
+facebook: "XX2Pi"
+description: "My blog"
 baseurl: ""
-url: "pvanphuc.github.io"
-github_username:  pvanphuc
+url: "x2pi.github.io"
+github_username:  x2pi
 
 # Build settings
 timezone: Asia/Ho_Chi_Minh
