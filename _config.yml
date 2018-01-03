@@ -1,0 +1,20 @@
+# Site settings
+title: Pi
+email: vphuc.p@gmail.com
+facebook: is011011010111100101101100011010010110011001100101
+description: "My blog."
+baseurl: ""
+url: "pvanphuc.github.io"
+github_username:  pvanphuc
+
+# Build settings
+timezone: Asia/Ho_Chi_Minh
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+

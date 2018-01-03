@@ -1,0 +1,38 @@
+
+
+
+
+body {
+font-family: 'Inconsolata', monospace;
+}	
+h1 { color: green;
+		font-size: 75px; 
+		font-weight: bold; 
+		letter-spacing: -1px;
+		line-height: 1; 
+		text-align: center; 
+	}
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: green;
+}
+a{
+	text-decoration: none;
+	font-size: 120%;
+
+}
