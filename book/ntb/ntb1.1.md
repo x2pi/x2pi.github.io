@@ -7,8 +7,6 @@ author: PI
 date: 2018-01-10 00:00:00 +0700
 ---
 
-{{ site.date_create}}
-
 The integers $\mathbb{Z}=\\{...,-2,-1,0,1,2...\\}$.
 
 $a,b,z \in \mathbb{Z}$ \\
