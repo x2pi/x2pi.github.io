@@ -1,7 +1,6 @@
 ---
 layout: post
 creationdate:  2018-01-05 00:00:00 +0700
-date_create: 2018-01-06
 title: Dvisibility and primality
 permalink: /book/ntb/ntb1.1/
 author: PI
