@@ -308,6 +308,7 @@ display:none;
 }
 
 .post-content { margin: 0 0 30px; }
+.post-content > * { margin: 20px 0; }
 
 
 .post-content h1,
