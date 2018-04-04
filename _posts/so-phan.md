@@ -31,7 +31,3 @@ Vậy cái gì quan trọng bây giờ. Nếu sống mà không có gì quan tr�
 
 Quan trọng là mình tận hưởng đón chờ tương lai của mình mà thôi. Quan trọng là mọi người vui. Quan trọng là mình vui. Quan trọng là em vui.
 
->P/s: Chuyện này là của thằng F.A
-
-
-<img src="/assets/fa01.jpg" alt="Mưa hoài"  style="margin:auto; max-width:100%; width: 500px;display:block" >
