@@ -21,7 +21,7 @@ Thực ra chúng ta nghĩ mình khác biệt là chuyện quá bình thường. 
 Sự khác biệt là quá bình thường luôn nó không giúp bạn thật sự giỏi một cái gì cả. Báo chí hay tìm điều gì đó đặc biệt hay lập dị để nói về thiên tài thậm chí là có phần phóng đại nữa như vậy mới hấp dẫn người đọc. Nên khiến rất nhiều người hiểu là thiên tài cần phải có cái gì đó đặc biệt. Thực ra bạn là người thường, tôi là người thường, thiên tài cũng là người thường.
 
 Albert Einstein từng nói: "Không phải là tôi rất thông minh, chỉ là tôi ở lại với các vấn đề lâu hơn." \\
-Một con số tương đối có thể giỏi là 10000 giờ (thực tế là nhiều hơn) thực sự học nó chẳng hạn. \\
+Một con số tương đối có thể giỏi một thứ là 10000 giờ (thực tế là nhiều hơn) thực sự học nó chẳng hạn. \\
 Sinh viên cần khoảng 4000 giờ (thực tế có thể ít hơn) là đủ tự tin xin việc. \\
 Khoảng 1000 giờ (thực tế có thể ít hơn) để có thể giao tiếp tương đối một ngôn ngữ. \\
 Các con số trên chỉ là tương đối. Nhưng nên nhớ đây là thực sự học tập chứ không phải là ngồi bấm thời gian. Và cho dù bao nhiêu giờ đi chăng nữa thì kiến thức là vô tận và còn nhiều thứ để học.
