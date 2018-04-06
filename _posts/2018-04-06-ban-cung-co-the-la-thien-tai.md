@@ -26,6 +26,6 @@ Sinh viên cần khoảng 4000 giờ (thực tế có thể ít hơn) là đủ 
 Khoảng 1000 giờ (thực tế có thể ít hơn) để có thể giao tiếp tương đối một ngôn ngữ. \\
 Các con số trên chỉ là tương đối. Nhưng nên nhớ đây là thực sự học tập chứ không phải là ngồi bấm thời gian. Và cho dù bao nhiêu giờ đi chăng nữa thì kiến thức là vô tận và còn nhiều thứ để học.
 
-Cách duy nhất để hiểu một người là ở bên người ấy đủ lâu. À quên.
+Cách duy nhất để hiểu một người là ở bên người ấy đủ lâu (khoảng 10000 giờ). À quên.
 
 **Cách duy nhất để bớt ngu một thứ là ở lại với nó đủ lâu**.
