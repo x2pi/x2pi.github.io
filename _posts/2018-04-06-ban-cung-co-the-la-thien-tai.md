@@ -1,7 +1,7 @@
 ---
 layout: post
 creationdate:  2018-04-06 00:00:00 +0700
-title: Bạn cũng có thể là thiên tài
+title: Cách duy nhất để hiểu một người là ở bên người ấy đủ lâu.
 date:   2018-04-06 00:00:01 +0700
 tags: [life]
 ---
