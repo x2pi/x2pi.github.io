@@ -1,9 +1,9 @@
 ---
 layout: post
-creationdate:  2018-01-30 00:00:00 +0700
+creationdate:  2018-04-11 00:00:00 +0700
 title: "Hạnh phúc"
-date:   2018-01-30 00:00:01 +0700
-tags: [life, happy]
+date:   2018-04-11 00:00:01 +0700
+tags: [life]
 ---
 
 Có bao giờ tự hỏi bạn thân hạnh phúc là gì, làm sao để hạnh phúc hay hỏi người khác câu hỏi như vậy. Chắc sẽ không có câu trả lời thỏa mãn. Vậy nên hỏi mấy giáo sư Harvard.
@@ -11,10 +11,13 @@ Sau đây là một số tóm tắt của mình hiểu được khi đọc mấy
 
 1. Hạnh phúc quyết định bởi 50 % do GEN, 10% hoàn cảnh, chỉ khoảng 40% do sự lựa chọn của bản thân. Có những người sinh ra đã có xu hướng hạnh phúc hơn người khác rồi. Nhưng đừng buồn 40 % đủ để bạn thay đổi và sống tốt hết cuộc đời này.
 
-2. Một số đều cốt lõi để được hạnh phúc.
-- Trân trọng mối quan hệ quan trọng nhất của bạn. Hãy đóng góp cho mỗi quan hệ đó.
-- Làm nhiều hơn những gì bạn giỏi và ít hơn về những gì bạn không giỏi.
-- Chăm sóc bản thân, sức khỏe của bạn và hạnh phúc, an ninh tài chính của bạn, cân bằng công việc và cuộc sống của bạn.
+2. Một số đều cốt lõi để được hạnh phúc. **Chú ý đây là những điều cốt lõi quan trọng và rất có ích vì nó giúp ta đi đúng hướng để tới được hạnh phúc**.
+- Tốt cho người khác:
+	- Trân trọng mối quan hệ quan trọng nhất của bạn. Hãy đóng góp cho các mỗi quan hệ đó.
+- Tốt ở ngay những việc mình làm:
+	- Làm nhiều hơn những gì bạn làm tốt và ít hơn về những gì bạn không tốt.
+- Tốt cho bản thân: 
+	- Chăm sóc bản thân về thể chất, về tài chính và tình cảm. Cân bằng công việc và cuộc sống của bạn.
 
 3. Xây dựng các mối quan hệ hơn tiền bạc hay danh vọng, là những gì giữ cho mọi người hạnh phúc trong suốt cuộc đời của họ, nghiên cứu tiết lộ. Những mối quan hệ bảo vệ con người khỏi bất mãn của cuộc sống, giúp trì hoãn suy giảm tinh thần và thể chất, và là yếu tố dự báo tốt hơn về cuộc sống lâu dài và hạnh phúc hơn tầng lớp xã hội, chỉ số IQ, hoặc thậm chí GEN.
 

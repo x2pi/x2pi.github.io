@@ -16,7 +16,7 @@ Thực ra chúng ta nghĩ mình khác biệt là chuyện quá bình thường. 
 
 ### Làm sao trở thành thiên tài. Làm sao giỏi một thứ. Thực ra là làm sao bớt ngu thôi. :)
 
-<img style = "display: block; max-width: 100%; margin: auto;"  src="/assets/pictures/einstein-smart.png" alt="Einstein">
+<img style = "display: block; max-width: 100%; margin: auto;"  src="/assets/pictures/einstein-smart.png" alt="Right Way">
 
 Sự khác biệt là quá bình thường luôn nó không giúp bạn thật sự giỏi một cái gì cả. Báo chí hay tìm điều gì đó đặc biệt hay lập dị để nói về thiên tài thậm chí là có phần phóng đại nữa như vậy mới hấp dẫn người đọc. Nên khiến rất nhiều người hiểu là thiên tài cần phải có cái gì đó đặc biệt. Thực ra bạn là người thường, tôi là người thường, thiên tài cũng là người thường.
 
