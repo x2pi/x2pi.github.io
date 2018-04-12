@@ -17,6 +17,6 @@ Rồi em trai mình cũng đang học lớp 6, ban đầu nó học kém hơn m�
 
 Lần đầu viết hơi dài như vậy mình cũng chỉ muốn nhấn mạnh rằng bài toán ẩn X quan trọng đến nhường nào. Muốn trẻ con học tốt toán thì phải giúp nó giải được bài toán ẩn X và muốn nó nhớ lâu thì hãy cho làm đi làm lại một bài, nếu có thể một tuần nhiều khi cũng chỉ cần làm đi làm lại một bài khó cũng đủ ổn rồi. Ít nhất nó đã có tác dụng với mình và em trai mình.
 
-**Nhiều khi cuộc sống ta cũng chỉ là tìm một cái X dựa trên những gì ta đã biết**.
+**Cuộc sống ta cũng chỉ là tìm một cái X dựa trên những gì ta đã biết**.
 
 <iframe style=" display:block;margin: auto" width="560" height="315" src="https://www.youtube.com/embed/H0erSMF3Xxk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
