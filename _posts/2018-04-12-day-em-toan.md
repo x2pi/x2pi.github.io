@@ -19,4 +19,4 @@ Lần đầu viết hơi dài như vậy mình cũng chỉ muốn nhấn mạnh 
 
 **Cuộc sống ta cũng chỉ là tìm một cái X dựa trên những gì ta đã biết**.
 
-<iframe style=" display:block;margin: auto" width="560" height="315" src="https://www.youtube.com/embed/H0erSMF3Xxk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style=" display:block;margin: auto; max-width: 100%" width="560" height="315" src="https://www.youtube.com/embed/H0erSMF3Xxk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
