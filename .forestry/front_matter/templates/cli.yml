@@ -29,6 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/test2.md
 - _posts/2018-07-29-test.md
 - _posts/2018-07-29-hello.md
