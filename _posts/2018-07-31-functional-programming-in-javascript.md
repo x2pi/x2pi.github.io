@@ -23,8 +23,7 @@ document.querySelector('#msg').innerHTML = '<h1>Hello World</h1>';
 
 ```javascript
 function printMessage(elementId, format, message) {
-document.querySelector(`#${elementId}`).innerHTML =
-`<${format}>${message}</${format}>`;
+	document.querySelector(`#${elementId}`).innerHTML = `<${format}>${message}</${format}>`;
 }
 printMessage('msg', 'h1','Hello World');
 ```
@@ -33,16 +32,19 @@ printMessage('msg', 'h1','Hello World');
 
 <i class="far fa-thumbs-down"></i>
 
-    var array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
-    for(let i = 0; i < array.length; i++) {
+```javascript
+var array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+for(let i = 0; i < array.length; i++) {
      array[i] = Math.pow(array[i], 2);
-    }
-    array; //-> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
-
+}
+array; //-> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
 <i class="far fa-thumbs-up"></i>
 
-    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map(
-    function(num) {
+```javascript
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map(
+  function(num) {
     return Math.pow(num, 2);
-    });
+  });
     //-> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
