@@ -6,14 +6,21 @@ creationdate: ''
 tags:
 - JS
 - Functional Programing
+- 'book '
 
 ---
 ### Item 1: Thay vì sử dụng trực tiếp có thể thay thế bằng hàm
-<i class="far fa-thumbs-down"></i>
+
+Mua sách ủng hộ tác giả nhé: [Functional Programming in JavaScript](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826)
+
+<i class="far fa-thumbs-down"></i> 
+
 ```javascript
 document.querySelector('#msg').innerHTML = '<h1>Hello World</h1>';
 ```
+
 <i class="far fa-thumbs-up"></i>
+
 ```javascript
 function printMessage(elementId, format, message) {
 document.querySelector(`#${elementId}`).innerHTML =
