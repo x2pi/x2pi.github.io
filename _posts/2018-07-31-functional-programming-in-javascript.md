@@ -8,7 +8,7 @@ tags:
 - Functional Programing
 
 ---
-#### Item 1: Thay vì sử dụng trực tiếp có thể thay thế bằng hàm
+### Item 1: Thay vì sử dụng trực tiếp có thể thay thế bằng hàm
 <i class="far fa-thumbs-down"></i>
 ```javascript
 document.querySelector('#msg').innerHTML = '<h1>Hello World</h1>';
@@ -21,4 +21,3 @@ document.querySelector(`#${elementId}`).innerHTML =
 }
 printMessage('msg', 'h1','Hello World');
 ```
-
