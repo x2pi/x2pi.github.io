@@ -82,4 +82,16 @@ function1Once(); // Không làm gì
 function2Once(); // Thực hiện lần đầu tiên set done trong function2Once là true
 function2Once(); // Không làm gì
 function2Once(); // Không làm gì
+
+// Có thể biến tấu nó thành nhiều kiểu thử suy nghĩ và tạo rạ một hàm như alternator sau
+let sayA = () => console.log("A");
+let sayB = () => console.log("B");
+let alt = alternator(sayA, sayB);
+alt(); // A
+alt(); // B
+alt(); // A
+alt(); // B
+alt(); // A
+
+// Hay là có thể tạo ra một hàm gọi ra n lần sau đó không làm gì
 ```
