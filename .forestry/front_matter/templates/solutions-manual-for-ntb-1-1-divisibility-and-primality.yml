@@ -28,3 +28,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- book/ntb/test.md
