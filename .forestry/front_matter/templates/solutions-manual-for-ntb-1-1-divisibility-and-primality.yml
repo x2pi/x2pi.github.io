@@ -29,4 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/tạo-một-game-bài-online-trong-2-ngày.md
 - book/ntb/test.md
