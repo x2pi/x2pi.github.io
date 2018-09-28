@@ -29,5 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/tạo-một-game-bài-online.md
+- _posts/2018-09-28-tạo-một-game-bài-online.md
 - _posts/2018-07-31-functional-programming-in-javascript.md
