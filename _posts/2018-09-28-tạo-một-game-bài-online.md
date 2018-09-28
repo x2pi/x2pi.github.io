@@ -19,9 +19,9 @@ Tạo folder chứa dự án.
 ### Khởi tạo dự án
 
 Cài vue-cli.
-
-    npm install --global vue-cli
-
+```sh
+npm install --global vue-cli
+```
 Trong folder dự án **thirteen** khởi tạo folder **client** sẽ chứa mã chạy ở client.
 
     vue init vuetifyjs/webpack client
