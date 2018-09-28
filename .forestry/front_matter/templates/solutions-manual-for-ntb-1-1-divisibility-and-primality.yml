@@ -29,4 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/tạo-một-game-bài-online.md
 - book/ntb/test.md
