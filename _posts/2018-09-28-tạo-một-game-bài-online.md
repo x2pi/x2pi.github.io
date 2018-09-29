@@ -56,7 +56,7 @@ Sử dụng babeljs cho mã server
     npm install @babel/core @babel/register --save-dev
     npm install --save-dev @babel/preset-env
 
-Khởi tạo .babelrc, index.js và app.js
+Tạo file .babelrc, index.js và app.js
 
 .../thirteen/server/.babelrc
 
@@ -72,3 +72,9 @@ Khởi tạo .babelrc, index.js và app.js
 .../thirteen/server/app.js
 
     console.log(1)
+
+Có thể chạy thử
+
+.../thirteen/server
+
+    node index.js
