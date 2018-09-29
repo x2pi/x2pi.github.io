@@ -9,14 +9,13 @@ tags:
 ---
 Viết lại cho có chút động lực để làm cái demo. Demo này thực hiện một game bài tiến lên online đơn giản. Ứng dụng sử dụng nodejs, mongodb và các module javascript như vue, mongoose...thiếu cái nào thì cài thêm cái đó.
 
-Tạo folder chứa dự án.
+### Tạo folder cho demo
 
-    mkdir thirteen
-    cd thirteen
+Tạo folder đặt tên là thirteen chứa dự án bằng cách tạo new repository githu rồi clone về máy.
 
-## Tạo client
+    git clone https://github.com/x2pi/thirteen.git
 
-### Khởi tạo dự án
+### Tạo nơi chứa mã client
 
 Cài vue-cli.
 
@@ -26,6 +25,8 @@ npm install --global vue-cli
 
 Trong folder dự án **thirteen** khởi tạo folder **client** sẽ chứa mã chạy ở client.
 
+_.../thirteen/_
+
     vue init vuetifyjs/webpack client
 
 Với một số tùy chọn như sau:  
@@ -33,5 +34,9 @@ Với một số tùy chọn như sau:
 
 Chạy thử nó kết quả xem tại [localhost:8080]().
 
+.../thirteen/
+
     cd client
     npm run dev
+
+### Tạo nơi chữa mã server
