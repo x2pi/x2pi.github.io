@@ -25,7 +25,7 @@ npm install --global vue-cli
 
 Trong folder dự án **thirteen** khởi tạo folder **client** sẽ chứa mã chạy ở client.
 
-_.../thirteen/_
+_.../thirteen_
 
     vue init vuetifyjs/webpack client
 
@@ -34,9 +34,35 @@ Với một số tùy chọn như sau:
 
 Chạy thử nó kết quả xem tại [localhost:8080]().
 
-.../thirteen/
+.../thirteen
 
     cd client
     npm run dev
 
 ### Tạo nơi chữa mã server
+
+Tạo folder server và khởi tạo npm
+
+.../thirteen
+
+    mkdir server
+    cd server
+    npm init -y
+
+Sử dụng babeljs cho mã server
+
+.../thirteen/server
+
+    npm install @babel/core @babel/register --save-dev
+    npm install --save-dev @babel/preset-env
+
+Khởi tạo index.js và app.js
+
+.../thirteen/server/index.js
+
+    require("@babel/register");
+    require('./app')
+
+.../thirteen/server/app.js
+
+    console.log(1)
