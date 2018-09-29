@@ -28,6 +28,9 @@ Trong folder dự án **thirteen** khởi tạo folder **client** sẽ chứa m�
 
     vue init vuetifyjs/webpack client
 
+Với một số tùy chọn như sau:  
+![](/uploads/vue-init.PNG)
+
 Chạy thử nó kết quả xem tại [localhost:8080]().
 
     cd client
