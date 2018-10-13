@@ -1,12 +1,12 @@
 ---
 title: Tạo một game bài online
-date: 2018-09-28 07:00:00 +07:00
-tags:
-- demo
+date: 2018-09-28 00:00:00 +0000
 layout: post
 creationdate: ''
----
+tags:
+- demo
 
+---
 Viết lại cho có chút động lực để làm cái demo. Demo này thực hiện một game bài tiến lên online đơn giản. Ứng dụng sử dụng nodejs, mongodb và các module javascript như vue, mongoose...thiếu cái nào thì cài thêm cái đó.
 
 ### Tạo folder cho demo
@@ -70,9 +70,9 @@ Tạo file .babelrc, index.js và app.js
     require('./app')
 
 .../thirteen/server/app.js
-
-    console.log(1)
-
+  ```javascript
+  console.log(1)
+  ```
 Có thể chạy thử
 
 .../thirteen/server
