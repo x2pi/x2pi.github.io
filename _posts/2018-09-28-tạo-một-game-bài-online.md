@@ -32,7 +32,7 @@ _.../thirteen_
 Với một số tùy chọn như sau:  
 ![](/uploads/vue-init.PNG)
 
-Chạy thử nó kết quả xem tại [localhost:8080]().
+Chạy thử nó kết quả xem tại [localhost:8080]( localhost:8080).
 
 .../thirteen
 
