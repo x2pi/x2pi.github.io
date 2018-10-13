@@ -1,9 +1,10 @@
 ---
+title: Dạy em học toán với bài tìm ẩn X
+date: 2018-04-12 00:00:01 +07:00
+tags:
+- life
 layout: post
-creationdate:  2018-04-12 00:00:00 +0700
-title: "Dạy em học toán với bài tìm ẩn X"
-date:   2018-04-12 00:00:01 +0700
-tags: [life]
+creationdate: 2018-04-12 00:00:00 +07:00
 ---
 
 Mình không thể nói cho mọi người hiểu là toán học quan trọng như thế nào. Mình từng thích toán rồi lại bỏ bê nó rồi lại phải **học lại nó từ đầu** vì cần đến nó chứ không phải là yêu toán đâu (nhiều khi tự hỏi trong đầu mình cần người ta hay là mình yêu người ta vậy?). Có lẽ là **khi nào bạn cần đến nó thì bạn mới thấy nó quan trọng**.

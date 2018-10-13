@@ -1,17 +1,21 @@
-# Site settings
+---
 title: Pi
-email: x2happi@gmail.com
-facebook: "XX2Pi"
-description: "My blog"
-baseurl: ""
-url: "x2pi.github.io"
-github_username:  x2pi
-
-# Build settings
 timezone: Asia/Ho_Chi_Minh
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: x2happi@gmail.com
+facebook: XX2Pi
+description: My blog
+baseurl: ''
+url: x2pi.github.io
+github_username: x2pi
 markdown: kramdown
 permalink: pretty
-
 highlighter: rouge
 kramdown:
   input: GFM

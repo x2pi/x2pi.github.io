@@ -1,9 +1,9 @@
 ---
+title: Tương lai
+date: 2018-01-18 00:00:00 +07:00
+permalink: "/book/peu/peu-01/"
 layout: post
-creationdate:  2018-01-18 00:00:00 +0700
-title: Tương lai 
-permalink: /book/peu/peu-01/
+creationdate: 2018-01-18 00:00:00 +07:00
 author: PI
-date: 2018-01-18 00:00:00 +0700
 ---
 

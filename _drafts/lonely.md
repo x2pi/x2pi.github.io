@@ -1,14 +1,14 @@
 ---
-layout: post
-creationdate: 2018-01-19 17:00:00 +0000
 title: Cô đơn
-date: 2018-01-19 17:00:01 +0000
+date: 2018-01-20 00:00:01 +07:00
 tags:
 - lonely
 - feelings
 - đạo văn
-
+layout: post
+creationdate: 2018-01-20 00:00:00 +07:00
 ---
+
 <audio controls>
   <source src="/assets/audio/lonely.mp3" type="audio/mp3">
 </audio>

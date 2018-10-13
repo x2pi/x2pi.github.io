@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Số phận
-date:   2018-01-02 14:00:02
-tags: [life]
+date: 2018-01-02 21:00:02 +07:00
+layout: post
+tags:
+- life
 ---
 
 Em có tin vào số phận không?

@@ -1,10 +1,10 @@
 ---
-layout: post
-creationdate:  2018-01-05 00:00:00 +0700
 title: Dvisibility and primality
-permalink: /book/ntb/ntb1.1/
+date: 2018-01-10 00:00:00 +07:00
+permalink: "/book/ntb/ntb1.1/"
+layout: post
+creationdate: 2018-01-05 00:00:00 +07:00
 author: PI
-date: 2018-01-10 00:00:00 +0700
 ---
 
 The integers $\mathbb{Z}=\\{...,-2,-1,0,1,2...\\}$.

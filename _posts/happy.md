@@ -1,9 +1,10 @@
 ---
+title: Hạnh phúc
+date: 2018-04-11 00:00:01 +07:00
 layout: post
-creationdate:  2018-04-11 00:00:00 +0700
-title: "Hạnh phúc"
-date:   2018-04-11 00:00:01 +0700
-tags: [life]
+creationdate: 2018-04-11 00:00:00 +07:00
+tags:
+- life
 ---
 
 Có bao giờ tự hỏi bạn thân hạnh phúc là gì, làm sao để hạnh phúc hay hỏi người khác câu hỏi như vậy. Chắc sẽ không có câu trả lời thỏa mãn. Vậy nên hỏi mấy giáo sư Harvard.

@@ -1,11 +1,12 @@
 ---
-layout: post
-creationdate:  2018-01-10 00:00:00 +0700
 title: Solutions manual for NTB - 1.1 Divisibility and primality
-permalink: /book/ntb/ntb-e1.1/
+date: 2018-01-11 00:00:00 +07:00
+permalink: "/book/ntb/ntb-e1.1/"
+layout: post
+creationdate: 2018-01-10 00:00:00 +07:00
 author: PI
-date: 2018-01-11 00:00:00 +0700
 ---
+
 **Exercise 1.1**. Let $a,b,d \in \mathbb{Z}$ with $d \neq 0$. Show that $a \mid b$ if only if $da \mid db$.
 
 **Solution**

@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Số phận
-date: 2018-01-02 14:00:02 +0000
+date: 2018-01-02 21:00:02 +07:00
 tags:
 - life
-
+layout: post
 ---
+
 Em có tin vào số phận không?
 
 Anh là người luôn tin tưởng vào khoa học và từng nghĩ là số phận là do mình tự quyết định đó là hồi anh chưa biết gì có thể gọi là cuồng đạo.

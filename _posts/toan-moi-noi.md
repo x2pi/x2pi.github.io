@@ -1,9 +1,11 @@
 ---
+title: Toán mọi nơi
+date: 2018-01-22 00:00:01 +07:00
 layout: post
-creationdate:  2018-01-22 00:00:00 +0700
-title: "Toán mọi nơi"
-date:   2018-01-22 00:00:01 +0700
-tags: [math, fractals]
+creationdate: 2018-01-22 00:00:00 +07:00
+tags:
+- math
+- fractals
 ---
 
 Không có toán không có điện thoại, máy tính, internet, camara 360 hay hiệu ứng hoành tráng của hollywood và không có luôn facebook... Đó toàn là những thứ do con người tạo ra. Hình học Euclid mô tả hình dạng lý tưởng - hình cầu, hình tròn, hình lập phương, hình vuông là hình dạng vật chủ yếu do con người tạo nên, tự nhiên rất hiếm có những hình dạng như thế.

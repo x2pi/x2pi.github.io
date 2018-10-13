@@ -1,12 +1,12 @@
 ---
-layout: post
-creationdate: 2018-04-10 17:00:00 +0000
 title: Hạnh phúc
-date: 2018-04-10 17:00:01 +0000
+date: 2018-04-11 00:00:01 +07:00
 tags:
 - life
-
+layout: post
+creationdate: 2018-04-11 00:00:00 +07:00
 ---
+
 Có bao giờ tự hỏi bạn thân hạnh phúc là gì, làm sao để hạnh phúc hay hỏi người khác câu hỏi như vậy. Chắc sẽ không có câu trả lời thỏa mãn. Vậy nên hỏi mấy giáo sư Harvard.
 Sau đây là một số tóm tắt của mình hiểu được khi đọc mấy bài báo về kết quả nghiên cứu trong 80 năm về hạnh phúc của Harvard. Chắc chắn nó sẽ giúp bản thân sống tốt hơn.
 

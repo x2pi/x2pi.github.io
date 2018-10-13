@@ -1,11 +1,12 @@
 ---
+title: List Vue Demo
+date: 2018-01-23 00:00:00 +07:00
+permalink: "/list-demo/vuebook/"
 layout: post
-creationdate:  2018-01-23 00:00:00 +0700
-title: "List Vue Demo"
-permalink: /list-demo/vuebook/
+creationdate: 2018-01-23 00:00:00 +07:00
 author: PI
-date: 2018-01-23 00:00:00 +0700
 ---
+
 - [001](http://output.jsbin.com/vuxaxoz/)
 - [002](http://jsbin.com/xenizig/edit?html,js,output)
 - [003]()

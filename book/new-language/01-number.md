@@ -1,10 +1,10 @@
 ---
-layout: post-l
-creationdate:  2018-02-05 00:00:00 +0700
 title: Number
-permalink: /book/new-language/english/01-number
+date: 2018-02-05 00:00:00 +07:00
+permalink: "/book/new-language/english/01-number"
+layout: post-l
+creationdate: 2018-02-05 00:00:00 +07:00
 author: PI
-date: 2018-02-05 00:00:00 +0700
 ---
 
  |English|Vietnamese|

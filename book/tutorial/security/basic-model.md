@@ -1,10 +1,10 @@
 ---
-layout: post
-creationdate:  2018-02-05 00:00:00 +0700
 title: Lỗi bảo mật web phổ biến
-permalink: /book/tutorial/security/basic-model
+date: 2018-02-05 00:00:00 +07:00
+permalink: "/book/tutorial/security/basic-model"
+layout: post
+creationdate: 2018-02-05 00:00:00 +07:00
 author: PI
-date: 2018-02-05 00:00:00 +0700
 ---
 
 Bài viết này mục đích đưa ra các ý tưởng cơ bản về một số lỗi bảo mật web phổ biến. Nó sẽ giúp hiểu được một phần nào đó về các vấn đề an ninh phải đối mặt.

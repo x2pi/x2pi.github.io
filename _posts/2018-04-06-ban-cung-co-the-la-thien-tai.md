@@ -1,10 +1,12 @@
 ---
-layout: post
-creationdate:  2018-04-06 00:00:00 +0700
 title: Cách duy nhất để hiểu một người là ở bên người ấy đủ lâu.
-date:   2018-04-06 00:00:01 +0700
-tags: [life]
+date: 2018-04-06 00:00:01 +07:00
+tags:
+- life
+layout: post
+creationdate: 2018-04-06 00:00:00 +07:00
 ---
+
 Tiêu đề hơi gây sốc thực ra bài viết là viết về làm sao giỏi một cái gì đó. Có thể là làm sao giỏi cái thứ mà mình đam mê hay giỏi nghề nghiệp. Trước hết là xin nói về sự khác biệt vì người ta thường hiểu lầm là thiên tài cần phải khác biệt hay lập dị.
 
 ### Chúng ta khác biệt
