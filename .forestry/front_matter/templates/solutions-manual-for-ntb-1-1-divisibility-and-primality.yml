@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Note
 hide_body: false
 is_partial: false
@@ -32,6 +29,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/online-game-card-full-stack-01-1.md
 - _posts/online-game-card-full-stack-01.md
 - book/ntb/test.md
