@@ -1,14 +1,14 @@
 ---
 title: Online card game full-stack 01
-date: 2018-10-13 07:00:00 +07:00
+date: 2018-10-13 00:00:00 +0000
+layout: post
+creationdate: ''
 tags:
 - card game
 - full-stack
 - tutorial
-layout: post
-creationdate: ''
----
 
+---
 Viết cho có chút động lực để làm cái demo. Demo này thực hiện một game bài tiến lên online đơn giản. Ứng dụng sử dụng nodejs, mongodb và các module javascript như vue, mongoose...thiếu cái nào thì cài thêm cái đó.
 
 ### Tạo thư mục chứa dự án
@@ -84,3 +84,10 @@ Chạy thử
 .../vietnamese-cards/server
 
     nodemon index.js
+
+### Kết quả
+
+Ta có được khởi tạo cấu trúc software ban đầu một ứng dụng **client** chạy ở [localhost:8080](localhost:8080) hiểu thị một vuetify teamplate và **server** in ra số 1. Chỉ là khởi tạo ban đầu client và server chưa có liên kết tương tác gì với nhau. Thực hiện một commit cho khởi tạo này.
+
+    git add .
+    git commit -m 'Khởi tạo client và server'
