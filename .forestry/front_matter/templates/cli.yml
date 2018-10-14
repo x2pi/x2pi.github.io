@@ -1,21 +1,13 @@
 ---
----
-
----
-label: CLI
-hide_body: 
-is_partial: 
+label: amy
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
-- name: creationdate
-  label: Creationdate
-  type: datetime
-  hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
