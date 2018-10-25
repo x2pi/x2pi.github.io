@@ -1,7 +1,4 @@
 ---
----
-
----
 label: amy
 hide_body: false
 is_partial: false
@@ -28,5 +25,4 @@ fields:
   default: ''
 pages:
 - _posts/2018-10-13-online-card-game-full-stack-01.md
-- _posts/2018-09-28-tạo-một-game-bài-online.md
 - _posts/2018-07-31-functional-programming-in-javascript.md
